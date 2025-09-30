@@ -1,4 +1,4 @@
-### Garantizando la Aleatoriedad y la Fiabilidad en Experimentos AA:  Un Análisis de Eventos y 
+### Garantizando la Aleatoriedad y la Fiabilidad en Experimentos AA:  Un Análisis de Eventos y conversiones
 
 En este proyecto, realicé un análisis estadístico riguroso para validar la correcta asignación aleatoria de grupos en un experimento A/A, enfocado en medir tasas de conversión y comportamiento de usuarios.
 
